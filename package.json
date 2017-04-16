@@ -1,0 +1,12 @@
+{
+  "name": "VideoStreamFlir",
+  "version": "0.1.0",
+  "description": "A real-time media player for thermal cams",
+  "repository": "",
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^1.4", 
+    "jade" : "0.28.x"
+  },
+  "author": "Marco Gorak"
+}
